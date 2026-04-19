@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-*s_!)k(9zw_q15te_f7ioydl=haq&#y=e9gp9(j!kt8kr$x$hv
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['*']
 
 # React-ga ruxsat berish uchun quyidagi qatorni qo'shing
  # Development bosqichida hamma narsaga ruxsat berish
